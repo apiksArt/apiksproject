@@ -4,6 +4,6 @@ Rencana project tambahan :
  * Excel
  * PowerPoint
 - Web Designer
- * Figma
- * Canva
+ * Adobe XD
+ * Adobe Illustrator
 
