@@ -3,6 +3,5 @@ Apiks Project :
 - Backend Web Developer
 - Database Administrator
 - Network Administrator
-- Office Administrator
 - Profesional English
 - Cyber Security
