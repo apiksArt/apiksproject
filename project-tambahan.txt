@@ -1,3 +1,7 @@
 Rencana project tambahan :
 - Office Administrator
+ * Word
+ * Excel
+ * PowerPoint
 - Web Designer
+
